@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-authx
-sqlalchemy
-aiosqlite
-slowapi
